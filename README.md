@@ -5,7 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NaorNC](https://github.com/NaorNC)
+- 👨‍💻 All of my projects are available at [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
+
+- 👨‍💼 Currently purchased over 50+ QBCore files [perfect - 99.99%] & 160 scripts. Welcome to join the family!
+My discord is below the description.
 
 - 💬 Feel free to always send me a message and I will try to answer you **all you need! 😅**
 
