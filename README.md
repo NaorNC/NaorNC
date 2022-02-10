@@ -7,7 +7,7 @@
 
 - 👨‍💻 My small projects are available at [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
 
-- 👨‍💼 Currently purchased over - **50+ QBCore server files [%99.99 - Pefrect] & 160 scripts separately.** Feel free to join the family! <br>
+- 👨‍💼 Currently sold over - **50+ QBCore server files [%99.99 - Pefrect] & 160 scripts separately.** Feel free to join the family! <br>
 **My discord is below the description.**</br>
 
 - 💬 Feel free to always send me a message and I will try to answer you **all you need! 😅**
