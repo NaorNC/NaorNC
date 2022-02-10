@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> </p>
 
-- 👨‍💻 My small projects are available at [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
+- 👨‍💻 Small projects available at [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
 
 - 👨‍💼 Currently sold over - **50+ QBCore server files [%99.99 - Pefrect] & 100 scripts separately.** Feel free to join the family! <br>
 **My discord is below the description.**</br>
