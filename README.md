@@ -3,7 +3,7 @@
 <h3 align="center">Trying to do the best there is! [157 Customers]</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> <img src="https://camo.githubusercontent.com/89c053263ab6fe9a1dc6d13820c577942943d32e46802ee2a006615e6ad112e4/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f616e67756c61722d636c6970626f6172642d6175746f2e737667" alt="npm" data-canonical-src="https://img.shields.io/npm/dt/angular-clipboard-auto.svg" style="max-width: 100%;"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> </p>
 
 - 👨‍💻 Small projects available at - [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
 
