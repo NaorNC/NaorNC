@@ -13,7 +13,7 @@
 
 - 📫 How to reach me - **admin@naornc.biz & discord ofc**
 
-- 🍒 Discord - **NaorNC#8998**
+- 🍒 Discord Server - **https://discord.gg/eET8CtgX97**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NaorNC&theme=cobalt&show_icons=true)
 
