@@ -12,8 +12,5 @@
 
 - 💬 Feel free to always send me a message and I will try to answer you **all you need! 😅**
 
-- 📫 How to reach me - **admin@naornc.biz & discord ofc**
-
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=NaorNC&theme=cobalt&show_icons=true)
 
