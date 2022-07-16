@@ -3,7 +3,7 @@
 <h3 align="center">#Here_To_Enjoy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> </p>
 
-- 🍒 Discord - https://discord.gg/cKt4Mpd2PQ
+- 🍒 New Discord Server - https://discord.gg/cKt4Mpd2PQ
 
 - 👨‍💻 Small projects available at - [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
 
