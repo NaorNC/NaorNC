@@ -7,7 +7,7 @@
 
 - 👨‍💻 Small projects available at - [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
 
-- 👨‍💼 Currently sold over - **70+ QBCore server files & 210 scripts separately.** Feel free to join the family! <br>
+- 👨‍💼 Currently sold over - **95+ QBCore server files & 270 scripts separately.** Feel free to join the family! <br>
 **My discord is below the description.**</br>
 
 - 💬 Feel free to always send me a message and I will try to answer you **all you need! 😅**
