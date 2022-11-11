@@ -10,7 +10,5 @@
 - 👨‍💼 Currently sold over - **145+ QBCore server files & 310 scripts separately.** Feel free to join the family! <br>
 **My discord is below the description.**</br>
 
-- 💬 Feel free to always send me a message and I will try to answer you **all you need! 😅**
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=NaorNC&theme=onedark&show_icons=true)
 
