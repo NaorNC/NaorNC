@@ -12,5 +12,5 @@
 
 - 💬 Feel free to always send me a message and I will try to answer you **all you need! 😅**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NaorNC&theme=cobalt&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=NaorNC&theme=onedark&show_icons=true)
 
