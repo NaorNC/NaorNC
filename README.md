@@ -7,7 +7,7 @@
 
 - 👨‍💻 Small and free projects available at - [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
 
-- 👨‍💼 With over **1,025+ satisfied customers**, **7,150+ members on Discord**, and **1,620+ Patreon supporters**, I’ve built a thriving community. Feel free to join and become a part of it! <br>
+- 👨‍💼 With over **1,025+ satisfied customers**, **7,000+ members on Discord**, and **1,750+ Patreon supporters**, I’ve built a thriving community. Feel free to join and become a part of it! <br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NaorNC&theme=onedark&show_icons=true)
 
